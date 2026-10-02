@@ -1,0 +1,20 @@
+{
+  "id": 96,
+  "title": "Home Occupancy Console Offline Automation",
+  "repository_slug": "home-occupancy-console-offline-automation",
+  "category": "Smart Home",
+  "platform": "ESP8266",
+  "platform_family": "arduino",
+  "difficulty": "Intermediate",
+  "estimated_hours": 28,
+  "connectivity": "Local only",
+  "components": [
+    "current sensor",
+    "microphone module"
+  ],
+  "scope": "Build a smart home prototype that uses current sensor, microphone module to run rules without cloud access. Include setup instructions, a circuit diagram, tested firmware, and sample output.",
+  "key_deliverable": "Offline Automation demonstration with repeatable test steps",
+  "mode": "closed_loop_control",
+  "entrypoint": "firmware/home-occupancy-console-offline-automation/home-occupancy-console-offline-automation.ino",
+  "roadmap_source": "openmaker-2100-project-roadmap.xlsx"
+}
